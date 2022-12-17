@@ -1,5 +1,5 @@
 <picture>
-<img src="https://github.com/s21357-pj/tau_18_04/actions/workflows/tests.yml/badge.svg">
+<img src="https://github.com/s21357-pj/tau_zjazd6_java/actions/workflows/tests.yml/badge.svg">
 </picture>
 
 # TAU ZJAZD 6 JAVA
